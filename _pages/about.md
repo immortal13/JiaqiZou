@@ -22,14 +22,14 @@ I am a Ph.D. student in the State Key Laboratory of Information Engineering in S
 My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 The SinoLC-1 been downloaded over 100,000 times. 
-- *2023.03*: &nbsp;🎉🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has open-accessed.
+- *2023.07*: &nbsp;🎉🎉 The SinoLC-1 has been downloaded over 100,000 times. 
+- *2023.03*: &nbsp;🎉🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data (SCI Q1 TOP, IF=11.4)](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
+[SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data **(SCI Q1 TOP, IF=11.4)**](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
   
 [**Data download**](https://zenodo.org/record/8105314) - 102,080 Download.
 
@@ -38,14 +38,14 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2022</div><img src='images/L2HNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels (SCI Q1 TOP, IF=12.7)](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180)
+[Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels **(SCI Q1 TOP, IF=12.7)**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180)
 
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src='images/JSTARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[The Outcome of the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection (SCI Q2, IF=5.5)](https://ieeexplore.ieee.org/document/9690575)
+[The Outcome of the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection **(SCI Q2, IF=5.5)**](https://ieeexplore.ieee.org/document/9690575)
 
 **Zhuohong Li**, Hongyan Zhang, Fangxiao Lu, Ruoyao Xue, Guangyi Yang, Liangpei Zhang
 </div>
