@@ -29,20 +29,20 @@ and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-sup
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
 
 **Zhuohong Li**, Wei He, Mofan Cheng, Jingxin Hu, Guangyi Yang, Hongyan Zhang
-
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2022</div><img src='images/L2HNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180)
 
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
-
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src='images/JSTARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,7 +59,7 @@ and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-sup
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
