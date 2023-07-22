@@ -23,7 +23,7 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 
 I have won First place in the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection
 and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Land-cover Mapping.
-My google scholar： <a href='https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 
 
 # 📝 Publications 
@@ -60,20 +60,25 @@ My google scholar： <a href='https://scholar.google.com/citations?user=cZt0JA4A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/2021DFC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [First place: 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection](https://ieeexplore.ieee.org/abstract/document/9553120)
+  
 2021 IEEE全球数据融合大赛 赛道冠军
+
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Liangpei Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second place</div><img src='images/DFC2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Second place: 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Learning for Land Cover Classification](https://ieeexplore.ieee.org/abstract/document/9884345)
+  
 2022 IEEE全球数据融合大赛 赛道亚军
+
 **Zhuohong Li**, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/Gaofen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmentation
+  
 第四届高分遥感图像解译软件大赛 赛道季军
 
 **Zhuohong Li**, He Huang, Mofan Cheng, Xinyu Ye, Hongyan Zhang
@@ -86,7 +91,11 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 - *2020 - 2023(now)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
 - *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University.
 
-# 💬 Conference presentation
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conference oral presentation
+
+- *2023*, IEEE 11th International Conference on Agro-Geoinformatics, Wuhan, China.
+- *2022*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Kuala Lumpur, Malaysia.
+- *2022*, Geography of China Information Science Theory and Method Annual Conference, Hangzhou, China.
+- *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
+- *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
 
