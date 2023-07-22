@@ -53,7 +53,27 @@ and 🎖 second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Sem
 
 
 # 🎖 Honors and Awards
-- *2020.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/DFC2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[First place[冠军]: 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection](https://ieeexplore.ieee.org/abstract/document/9553120)
+
+**Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Liangpei Zhang
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second place</div><img src='images/DFC2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Second place[亚军]: 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Learning for Land Cover Classification](https://ieeexplore.ieee.org/abstract/document/9884345)
+
+**Zhuohong Li**, Jiaqi Zou,Fangxiao Lu, Hongyan Zhang
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/Gaofen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Third place[季军]: 2020 Gaofen challenge—Track: Remote sensing image semantic segementaion]
+
+**Zhuohong Li**, He Huang,Mofan Cheng, Xinyu Ye, Hongyan Zhang
+</div>
+</div>
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
