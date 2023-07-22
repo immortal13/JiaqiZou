@@ -29,7 +29,7 @@ and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-sup
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
 
