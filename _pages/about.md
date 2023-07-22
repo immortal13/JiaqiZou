@@ -89,7 +89,8 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 2019 全国大学生电子设计大赛 国家一等奖
 - *2018* The second prize: National Undergraduate Embedded Chip and System Design Competition. 
 2018 全国大学生嵌入式芯片与系统设计竞赛 国家二等奖
-
+- *2023* The second prize: China National University Students’Opt-Sci-Tech Competition. 
+2023 全国大学生光电设计竞赛 国家二等奖
 # 📖 Educations
 - *2020 - 2023(now)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
 - *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University.
