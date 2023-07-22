@@ -24,14 +24,17 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 I have won First place in the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection
 and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Land-cover Mapping.
 
-
+# 🔥 News
+- *2023.07*: &nbsp;🎉🎉 The first 1-meter resolution national-scale land-cover map of China has been downloaded over 100,000 times. 
+- *2023.03*: &nbsp;🎉🎉 The first 1-meter resolution national-scale land-cover map of China has open-accessed.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data (SCI Q1 TOP, IF=11.4)](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
-
+[**Data download**](https://zenodo.org/record/8105314) 
+- The data has been downloaded 102,080 times. 
 **Zhuohong Li**, Wei He, Mofan Cheng, Jingxin Hu, Guangyi Yang, Hongyan Zhang
 </div>
 </div>
@@ -84,8 +87,10 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 **Zhuohong Li**, He Huang, Mofan Cheng, Xinyu Ye, Hongyan Zhang
 </div>
 </div>
-- *2019* The first prize: National Undergraduate Electronics Design Contest. 2019 全国大学生电子设计大赛 国家一等奖
-- *2018* The second prize: National Undergraduate Embedded Chip and System Design Competition. 2018 全国大学生嵌入式芯片与系统设计竞赛 国家二等奖
+- *2019* The first prize: National Undergraduate Electronics Design Contest. 
+2019 全国大学生电子设计大赛 国家一等奖
+- *2018* The second prize: National Undergraduate Embedded Chip and System Design Competition. 
+2018 全国大学生嵌入式芯片与系统设计竞赛 国家二等奖
 
 # 📖 Educations
 - *2020 - 2023(now)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
