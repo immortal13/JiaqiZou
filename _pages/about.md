@@ -21,9 +21,6 @@ I am a Ph.D. student in the State Key Laboratory of Information Engineering in S
 
 My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. 
 
-I have won First place in the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection
-and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Land-cover Mapping.
-
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 The first 1-meter resolution national-scale land-cover map of China has been downloaded over 100,000 times. 
 - *2023.03*: &nbsp;🎉🎉 The first 1-meter resolution national-scale land-cover map of China has open-accessed.
