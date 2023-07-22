@@ -31,9 +31,8 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 <div class='paper-box-text' markdown="1">
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data (SCI Q1 TOP, IF=11.4)](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
   
-[**Data download**](https://zenodo.org/record/8105314) 
-- 102,080 Download.
-</span></strong>
+[**Data download**](https://zenodo.org/record/8105314) - 102,080 Download.
+
 **Zhuohong Li**, Wei He, Mofan Cheng, Jingxin Hu, Guangyi Yang, Hongyan Zhang
 </div>
 </div>
