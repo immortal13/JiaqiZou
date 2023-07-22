@@ -52,7 +52,11 @@ and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-sup
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Guangyi Yang, Liangpei Zhang, **IGRASS 2020**
+- [Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping](https://ieeexplore.ieee.org/abstract/document/9884345), Zhuohong Li, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang, **IGRASS 2021**
+- [Simultaneous Update of High-Resolution Land-Cover Mapping Attempt: Wuhan and the Surrounding Satellite Cities Cartography Using L2HNet](https://arxiv.org/pdf/2303.05305.pdf), Yan Huang, Yuqing Wang, Zhanbo Li, Zhuohong Li, Guangyi Yang, **JSTARS 2023**
+- [National-scale 1-m resolution land-cover mapping for the entire China based on a low-cost solution and open-access data](https://arxiv.org/pdf/2303.05305.pdf), Zhuohong Li, Wei He, Hongyan Zhang, **arxiv**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
