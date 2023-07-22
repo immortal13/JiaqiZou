@@ -36,8 +36,7 @@ and second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-sup
 
 **Zhuohong Li**, Hongyan Zhang, Fangxiao Lu, Ruoyao Xue, Guangyi Yang, Liangpei Zhang
 
-{%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>%}
-{%- to break through this obstacle, we propose a low-to-high network (L2HNet) to automatically generate high-resolution land-cover maps from high-resolution images by taking only low-resolution land-cover products as the training labels, thus getting rid of the requirement for finely labeled samples during the large-scale map updating process. %}
+
 </div>
 </div>
 
