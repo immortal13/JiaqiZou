@@ -22,16 +22,18 @@ I am a Ph.D. student in the State Key Laboratory of Information Engineering in S
 My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 The first 1-meter resolution national-scale land-cover map of China has been downloaded over 100,000 times. 
-- *2023.03*: &nbsp;🎉🎉 The first 1-meter resolution national-scale land-cover map of China has open-accessed.
+- *2023.07*: &nbsp;🎉🎉 The SinoLC-1 been downloaded over 100,000 times. 
+- *2023.03*: &nbsp;🎉🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has open-accessed.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data (SCI Q1 TOP, IF=11.4)](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
+  
 [**Data download**](https://zenodo.org/record/8105314) 
-- The data has been downloaded 102,080 times. 
+- 102,080 Download.
+</span></strong>
 **Zhuohong Li**, Wei He, Mofan Cheng, Jingxin Hu, Guangyi Yang, Hongyan Zhang
 </div>
 </div>
