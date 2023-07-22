@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS). I received the B.S. degree in communication engineering in 2020 from Wuhan University,
 
 My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. I have won 🎖 First place in the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection
-and 🎖 second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Land-cover Mapping. My google scholar： <a href='https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+and 🎖 second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Land-cover Mapping. My google scholar： <a href='https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 📝 Publications 
