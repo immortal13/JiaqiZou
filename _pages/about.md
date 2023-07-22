@@ -65,14 +65,14 @@ and 🎖 second place in the 2022 IEEE GRSS Data Fusion Contest—Track SLM: Sem
 <div class='paper-box-text' markdown="1">
 [Second place亚军: 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Learning for Land Cover Classification](https://ieeexplore.ieee.org/abstract/document/9884345)
 
-**Zhuohong Li**, Jiaqi Zou,Fangxiao Lu, Hongyan Zhang
+**Zhuohong Li**, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/Gaofen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Third place季军: 2020 Gaofen challenge—Track: Remote sensing image semantic segementaion]
 
-**Zhuohong Li**, He Huang,Mofan Cheng, Xinyu Ye, Hongyan Zhang
+**Zhuohong Li**, He Huang, Mofan Cheng, Xinyu Ye, Hongyan Zhang
 </div>
 </div>
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
