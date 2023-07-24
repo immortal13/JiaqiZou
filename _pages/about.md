@@ -29,7 +29,7 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data **(SCI Q1 TOP, IF=11.4)**](https://editor.copernicus.org/ESSD/ms-records/essd-2023-87)
+[SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data **(SCI Q1 TOP, IF=11.4)**](https://essd.copernicus.org/preprints/essd-2023-87/)
   
 [**Data download**](https://zenodo.org/record/8105314) - 102,080 Download.
 
