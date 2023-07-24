@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS). I received the B.S. degree in communication engineering in 2020 from Wuhan University,
+I am a Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院),
 
 My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. 
 
