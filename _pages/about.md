@@ -88,6 +88,15 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/Gaofen.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmentation
+
+2023 IEEE高光谱图像信号处理挑战赛 赛道亚军
+
+Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHISPER
   
 第四届高分遥感图像解译软件大赛 赛道季军
 
