@@ -83,11 +83,6 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 2022 IEEE全球数据融合大赛 赛道亚军
 
 **Zhuohong Li**, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/Gaofen.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmentation
 
 2023 IEEE高光谱图像信号处理挑战赛 赛道亚军
 
@@ -101,6 +96,11 @@ Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHIS
 第四届高分遥感图像解译软件大赛 赛道季军
 
 **Zhuohong Li**, He Huang, Mofan Cheng, Xinyu Ye, Hongyan Zhang
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/Gaofen.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmentation
 </div>
 </div>
 - *2019* The first prize: National Undergraduate Electronics Design Contest. 
