@@ -22,11 +22,20 @@ I am a first-year Ph.D. student in the State Key Laboratory of Information Engin
 My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
 - *2023.07*: &nbsp;🎉🎉 The SinoLC-1 has been downloaded over 100,000 times. 
 - *2023.03*: &nbsp;🎉🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(CCF-A)**](https://essd.copernicus.org/preprints/essd-2023-87/)
+  
+[**Data download**](https://arxiv.org/abs/2403.02746) - score:5/5/4.
 
+**Zhuohong Li**, Wei He, Jiepan Li, Fangxiao u, Hongyan Zhang
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data **(SCI Q1 TOP, IF=11.4)**](https://essd.copernicus.org/preprints/essd-2023-87/)
