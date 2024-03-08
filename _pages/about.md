@@ -48,15 +48,16 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2022</div><img src='images/L2HNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels **(SCI Q1 TOP, IF=12.7)**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180)
+  
+**Zhuohong Li**, Hongyan Zhang, Fangxiao Lu, Ruoyao Xue, Guangyi Yang, Liangpei Zhang
 
-**Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src='images/JSTARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [The Outcome of the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection **(SCI Q2, IF=5.5)**](https://ieeexplore.ieee.org/document/9690575)
 
-**Zhuohong Li**, Hongyan Zhang, Fangxiao Lu, Ruoyao Xue, Guangyi Yang, Liangpei Zhang
+**Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
 </div>
 </div>
 - [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Guangyi Yang, Liangpei Zhang, **IGRASS 2020**
@@ -88,7 +89,6 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHISPER
-
 
 2023 IEEE高光谱图像信号处理挑战赛 赛道亚军
 
