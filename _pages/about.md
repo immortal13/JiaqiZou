@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院),
+I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院),
 
 My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. 
 
@@ -86,7 +86,7 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second place</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHISPER
 
@@ -112,7 +112,7 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 - *2023* The second prize: China National University Students’Opt-Sci-Tech Competition. 
 2023 全国大学生光电设计竞赛 国家二等奖
 # 📖 Educations
-- *2020 - 2023(now)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
+- *2020 - 2025(present)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
 - *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University.
 
 # 💬 Conference oral presentation
