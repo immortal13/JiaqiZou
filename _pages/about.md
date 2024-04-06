@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院),
-
-My research interest includes large-scale land cover mapping, semantic segmentation, and deep learning. 
+I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院).
+My research interest includes land cover mapping and large-scale Earth observation applications. I am looking for a post-doc position.
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
 - *2024.02*: &nbsp;🎉🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
 - *2023.07*: &nbsp;🎉🎉 The SinoLC-1 has been downloaded over 100,000 times. 
 - *2023.03*: &nbsp;🎉🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
@@ -29,7 +29,7 @@ My research interest includes large-scale land cover mapping, semantic segmentat
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(CCF-A)**]([https://essd.copernicus.org/preprints/essd-2023-87/](https://arxiv.org/abs/2403.02746))
+[Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(CCF-A)**](https://arxiv.org/abs/2403.02746)
   
 [**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
 
