@@ -29,9 +29,9 @@ My research interest includes land cover mapping and large-scale Earth observati
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(CCF-A)**](https://arxiv.org/abs/2403.02746)
+[Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(Highlight)**](https://arxiv.org/abs/2403.02746)
   
-[**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4 (Highlight).
+[**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
 
 **Zhuohong Li**, Wei He, Jiepan Li, Fangxiao u, Hongyan Zhang
 </div>
