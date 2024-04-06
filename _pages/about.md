@@ -31,7 +31,7 @@ My research interest includes land cover mapping and large-scale Earth observati
 <div class='paper-box-text' markdown="1">
 [Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(CCF-A)**](https://arxiv.org/abs/2403.02746)
   
-[**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
+[**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4 (Highlight).
 
 **Zhuohong Li**, Wei He, Jiepan Li, Fangxiao u, Hongyan Zhang
 </div>
@@ -82,8 +82,8 @@ My research interest includes land cover mapping and large-scale Earth observati
 [Second place: 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Learning for Land Cover Classification](https://ieeexplore.ieee.org/abstract/document/9884345)
   
 2022 IEEE全球数据融合大赛 赛道亚军
+**Zhuohong Li**, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang
 
-Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second place</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
@@ -92,8 +92,8 @@ Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHIS
 
 2023 IEEE高光谱图像信号处理挑战赛 赛道亚军
 
-**Zhuohong Li**, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang
 
+Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third place</div><img src='images/Gaofen.png' alt="sym" width="100%"></div></div>
