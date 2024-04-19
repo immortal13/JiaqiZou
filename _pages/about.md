@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院). **I will graduate in June 2025, searching for a postdoc position in 2025.**
+I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院). **I will graduate in June 2025, searching for a postdoc position in 2025. (寻找2025年博后岗位)**
 My research interest includes land cover mapping and large-scale Earth observation applications. I am looking for a post-doc position.
 
 # 🔥 News
