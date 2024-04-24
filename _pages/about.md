@@ -21,19 +21,29 @@ I am a second-year Ph.D. student in the State Key Laboratory of Information Engi
 My research interest includes land cover mapping and large-scale Earth observation applications. I am looking for a post-doc position.
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop and won the 1st place of OpenEarthMap Land Cover Mapping challange. 
 - *2024.04*: &nbsp;🎉🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
 - *2024.02*: &nbsp;🎉🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
 - *2023.07*: &nbsp;🎉🎉 The SinoLC-1 has been downloaded over 100,000 times. 
 - *2023.03*: &nbsp;🎉🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
+  
+[**Code and data**](https://github.com/LiZhuoHong/SegLand/)
+
+**Zhuohong Li**, Fangxiao Lu, Jiaqi Zou, Lei Hu, Hongyan Zhang
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(Highlight)**](https://arxiv.org/abs/2403.02746)
   
 [**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
 
-**Zhuohong Li**, Wei He, Jiepan Li, Fangxiao u, Hongyan Zhang
+**Zhuohong Li**, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
