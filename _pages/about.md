@@ -24,7 +24,7 @@ My research interest includes weakly-supervised semantic segmentation, land cove
 Email: **ashelee@whu.edu.cn**
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 We won the 1st place of CVPR 2024 OpenEarthMap Land Cover Mapping challange. 
+- *2024.04*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
 - *2024.04*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
 - *2024.04*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
 - *2024.02*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
