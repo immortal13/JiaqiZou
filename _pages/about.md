@@ -24,17 +24,18 @@ My research interest includes weakly-supervised semantic segmentation, land cove
 Email: **ashelee@whu.edu.cn**
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop and won the 1st place of OpenEarthMap Land Cover Mapping challange. 
-- *2024.04*: &nbsp;🎉🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
-- *2024.02*: &nbsp;🎉🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
-- *2023.07*: &nbsp;🎉🎉 The SinoLC-1 has been downloaded over 100,000 times. 
-- *2023.03*: &nbsp;🎉🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
+- *2024.04*: &nbsp;🎉 We won the 1st place of CVPR 2024 OpenEarthMap Land Cover Mapping challange. 
+- *2024.04*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
+- *2024.04*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
+- *2024.02*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
+- *2023.07*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
+- *2023.03*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
-  
+  https://codalab.lisn.upsaclay.fr/competitions/17568#participate
 [**Code and data**](https://github.com/LiZhuoHong/SegLand/)
 
 **Zhuohong Li**, Fangxiao Lu, Jiaqi Zou, Lei Hu, Hongyan Zhang
@@ -80,6 +81,15 @@ Email: **ashelee@whu.edu.cn**
 
 
 # 🎖 Honors and Awards
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/CVPRW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[First place: 2024 CVPR OpenEarthMap Land Cover Mapping Challange](https://sites.google.com/view/l3divu2024/overview)
+  
+2024 CVPR小样本土地制图挑战赛 冠军
+
+**Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Liangpei Zhang
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/2021DFC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
