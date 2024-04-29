@@ -123,9 +123,7 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 2018 全国大学生嵌入式芯片与系统设计竞赛 国家二等奖
 - *2023* The second prize: China National University Students’Opt-Sci-Tech Competition. 
 2023 全国大学生光电设计竞赛 国家二等奖
-<!-- # 📖 Educations
-- *2020 - 2025(present)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
-- *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University. -->
+
 # 💬 Conference oral presentation
 - *2024*, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, Seattle, USA.
 - *2023*, IEEE 11th International Conference on Agro-Geoinformatics, Wuhan, China.
