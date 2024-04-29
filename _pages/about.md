@@ -139,5 +139,5 @@ I am the Captain of the LIESMARS soccer team and serve as a national athlete (Go
 <div class='paper-box-text' markdown="1">
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/s1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/4.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
