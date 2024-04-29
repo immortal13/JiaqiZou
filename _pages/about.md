@@ -94,6 +94,7 @@ Email: **ashelee@whu.edu.cn**
 [Second place: 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Learning for Land Cover Classification](https://ieeexplore.ieee.org/abstract/document/9884345)
   
 2022 IEEE全球数据融合大赛 赛道亚军
+
 **Zhuohong Li**, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang
 
 </div>
@@ -103,7 +104,6 @@ Email: **ashelee@whu.edu.cn**
 Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHISPER
 
 2023 IEEE高光谱图像信号处理挑战赛 赛道亚军
-
 
 Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 </div>
@@ -123,15 +123,17 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 2018 全国大学生嵌入式芯片与系统设计竞赛 国家二等奖
 - *2023* The second prize: China National University Students’Opt-Sci-Tech Competition. 
 2023 全国大学生光电设计竞赛 国家二等奖
-# 📖 Educations
+<!-- # 📖 Educations
 - *2020 - 2025(present)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
-- *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University.
-
+- *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University. -->
 # 💬 Conference oral presentation
-
+- *2024*, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, Seattle, USA.
 - *2023*, IEEE 11th International Conference on Agro-Geoinformatics, Wuhan, China.
 - *2022*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Kuala Lumpur, Malaysia.
 - *2022*, Geography of China Information Science Theory and Method Annual Conference, Hangzhou, China.
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
 - *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
+<!-- # 📖 Educations
+- *2020 - 2025(present)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
+- *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University. -->
 
