@@ -32,7 +32,7 @@ Email: **ashelee@whu.edu.cn**
 - *2023.03*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW_Paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
   https://codalab.lisn.upsaclay.fr/competitions/17568#participate
