@@ -110,14 +110,14 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 </div>
 </div>
 
-- *2020* Third prize: 2020 Gaofen challenge—Track: Remote sensing image semantic segmentation 
+- *2020* Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmentation 
 第四届高分遥感图像解译软件大赛 赛道季军
-- *2019* First prize: National Undergraduate Electronics Design Contest. 
-2019 全国大学生电子设计大赛 国家一等奖
-- *2018* Second prize: National Undergraduate Embedded Chip and System Design Competition. 
-2018 全国大学生嵌入式芯片与系统设计竞赛 国家二等奖
-- *2023* Second prize: China National University Students’Opt-Sci-Tech Competition. 
-2023 全国大学生光电设计竞赛 国家二等奖
+- *2019* The First prize: National Undergraduate Electronics Design Contest. 
+2019 全国大学生电子设计大赛 一等奖
+- *2018* The Second prize: National Undergraduate Embedded Chip and System Design Competition. 
+2018 全国大学生嵌入式芯片与系统设计竞赛 二等奖
+- *2023* The Second prize: China National University Students’Opt-Sci-Tech Competition. 
+2023 全国大学生光电设计竞赛 二等奖
 
 # 💬 Conference oral presentation
 - *2024*, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, Seattle, USA.
