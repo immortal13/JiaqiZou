@@ -134,6 +134,7 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 - *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
 # 📖 Daily life
 I like to play soccer and travel. Enjoy the sport and life :)
+
 I am the Captain of the LIESMARS soccer team and serve as a national athlete (Goalkeeper)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/s2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
