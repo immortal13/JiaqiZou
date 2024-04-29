@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院). **I will graduate in June 2025, searching for a postdoc position in 2025 fall. (寻找2025年博后岗位)**
 
-My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. I am dedicated to using deep learning technology to solve remote sensing problems in Earth observation.
+My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
 Email: **ashelee@whu.edu.cn**
 
