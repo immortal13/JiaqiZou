@@ -131,7 +131,12 @@ Third place: 2020 Gaofen challenge—Track: Remote sensing image semantic segmen
 - *2022*, Geography of China Information Science Theory and Method Annual Conference, Hangzhou, China.
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
 - *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
-<!-- # 📖 Educations
-- *2020 - 2025(present)*, Ph.D. degree (Photogrammetry & Remote Sensing), State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. 
-- *2016 - 2020*, B.S. degree (Telecommunication), Electronic Information School, Wuhan University. -->
-
+# 📖 Daily life
+I like to play soccer and travel. Enjoy the sport and life :)
+I am the Captain of the LIESMARS soccer team and serve as a national athlete (Goalkeeper)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/s1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/s2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
