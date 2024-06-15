@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University (武汉大学 测绘遥感信息工程国家重点实验室). My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received the B.S. degree in communication engineering in 2020 from Wuhan University (武汉大学 电子信息学院). **I will graduate in June 2025, searching for a postdoc position in 2025 fall. (寻找2025年博后岗位)**
+I am a second-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University. My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received the B.S. degree in communication engineering in 2020 from Wuhan University. **I will graduate in June 2025, searching for a postdoc position in 2025 fall. (寻找2025年博后岗位)**
 
 My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
@@ -85,7 +85,6 @@ Email: **ashelee@whu.edu.cn**
 <div class='paper-box-text' markdown="1">
 [First place: 2024 CVPR OpenEarthMap Land Cover Mapping Challange](https://codalab.lisn.upsaclay.fr/competitions/17568#participate)
   
-2024 CVPR小样本土地制图挑战赛 冠军
 
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Liangpei Zhang
 </div>
@@ -95,7 +94,6 @@ Email: **ashelee@whu.edu.cn**
 <div class='paper-box-text' markdown="1">
 [First place: 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection](https://ieeexplore.ieee.org/abstract/document/9553120)
   
-2021 IEEE全球数据融合大赛 赛道冠军
 
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Liangpei Zhang
 </div>
@@ -104,7 +102,6 @@ Email: **ashelee@whu.edu.cn**
 <div class='paper-box-text' markdown="1">
 [Second place: 2022 IEEE GRSS Data Fusion Contest—Track SLM: Semi-supervised Learning for Land Cover Classification](https://ieeexplore.ieee.org/abstract/document/9884345)
   
-2022 IEEE全球数据融合大赛 赛道亚军
 
 **Zhuohong Li**, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang
 
@@ -114,20 +111,15 @@ Email: **ashelee@whu.edu.cn**
 <div class='paper-box-text' markdown="1">
 Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHISPER
 
-2023 IEEE高光谱图像信号处理挑战赛 赛道亚军
 
 Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 </div>
 </div>
 
 - *2020* Third place: 2020 Gaofen challenge—Track: Remote-sensing image semantic segmentation 
-第四届高分遥感图像解译软件大赛 赛道季军
 - *2019* The first prize: China National Undergraduate Electronics Design Contest. 
-2019 全国大学生电子设计大赛 一等奖
 - *2018* The second prize: China National Undergraduate Embedded Chip and System Design Competition. 
-2018 全国大学生嵌入式芯片与系统设计竞赛 二等奖
 - *2023* The second prize: China National University Students’Opt-Sci-Tech Competition. 
-2023 全国大学生光电设计竞赛 二等奖
 
 # 💬 Conference oral presentation
 - *2024*, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, Seattle, USA.
