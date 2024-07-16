@@ -86,7 +86,7 @@ Email: **ashelee@whu.edu.cn**
 [First place: 2024 CVPR OpenEarthMap Land Cover Mapping Challange](https://codalab.lisn.upsaclay.fr/competitions/17568#participate)
   
 
-**Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Liangpei Zhang
+**Zhuohong Li**, Fangxiao Lu, Jiaqi Zou, Lei Hu, Hongyan Zhang
 </div>
 </div>
 
