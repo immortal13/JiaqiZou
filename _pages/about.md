@@ -81,7 +81,7 @@ Email: **ashelee@whu.edu.cn**
 
 
 # 🎖 Honors and Awards
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/CVPRW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/CVPR-1st.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [First place: 2024 CVPR OpenEarthMap Land Cover Mapping Challange](https://codalab.lisn.upsaclay.fr/competitions/17568#participate)
   
