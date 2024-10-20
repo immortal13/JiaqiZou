@@ -27,11 +27,11 @@ My research interest includes deep learning, remote sensing, hyperspectral, imag
 
 Email: **immortal@whu.edu.cn**
 
-# 🎓 Education
+# 🎓 Part I: Education
 - *2020 – 2025*, **M.Sc.** & **Ph.D.** in Photogrammetry and Remote Sensing, Wuhan University.
 - *2016 – 2020*, **B.Sc.** in Surveying and Mapping Engineering, China University of Mining & Technology-Beijing.
 
-# 📒 Publications 
+# 📒 Part II: Publications 
 ## Journals
 - H. Zhang<sup>∗</sup> , **_<font color="red">J. Zou<sup>∗</sup></font>_**, and L. Zhang, “EMS-GCN: An end-to-end mixhop superpixel-based graph convolutional network for hyperspectral image classification,” **_IEEE Transactions on Geoscience and Remote Sensing_**, vol. 60, 2022, Art. no. 5526116. [[Paper]](https://ieeexplore.ieee.org/document/9745164) [[Code]](https://github.com/immortal13/EMS-GCN-hyperspectral-image-classification)
 - **_<font color="red">J. Zou</font>_**, W. He, and H. Zhang<sup>∗</sup>, “LESSFormer: Local-enhanced spectral–spatial transformer for hyperspectral image classification,” **_IEEE Transactions on Geoscience and Remote Sensing_**, vol. 60, 2022, Art. no. 5535416. [[Paper]](https://ieeexplore.ieee.org/document/9851468) [[Code]](https://github.com/immortal13/LESSFormer-hyperspectral-image-classification)
@@ -43,7 +43,7 @@ Email: **immortal@whu.edu.cn**
 - Z. Li, F. Lu, **_<font color="red">J. Zou</font>_**, L. Hu, and H. Zhang<sup>∗</sup>, “Generalized few-shot meets remote sensing: Discovering novel classes in land cover mapping via hybrid semantic segmentation framework,” in **_2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)_**, 2024, pp. 2744–2754. [[Paper]](https://ieeexplore.ieee.org/document/10677943) [[Code]](https://github.com/LiZhuoHong/SegLand)
 - Z. Li, **_<font color="red">J. Zou</font>_**, F. Lu, and H. Zhang<sup>∗</sup>, “Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping,” in **_IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium_**, 2022, pp. 4607–4610. [[Paper]](https://ieeexplore.ieee.org/document/9884345)
 
-# 🏆 Honors and Awards
+# 🏆 Part III: Honors and Awards
 ## Academic Competition
 - *Apr 2024*, **<font color="red">1st Place</font>** in CVPR Workshop Challenge, Seattle, United States (OpenEarthMap Land Cover Mapping Few-Shot) 
 - *Oct 2024*, **<font color="red">2nd Place</font>** in National Finals, Shanghai, China (China International College Students’ Innovation Competition)
@@ -56,11 +56,12 @@ Email: **immortal@whu.edu.cn**
 - *Jul 2023*, **<font color="red">Excellent Presentation Award</font>** in Remote Sensing of Wetlands Conference, Shandong, China
 - *Dec 2023*, **<font color="red">Best Presentation Award (1st Place)</font>** in International Graduate Workshop on Geoinformatics Conference, Hong Kong, China
 - *Dec 2022*, **<font color="red">Excellent Presentation Award</font>** in International Graduate Workshop on Geoinformatics Conference, Wuhan, China 
+
 ## National Scholarship
 
 ## Sports Competition
 
 
 
-# 🥰 Hobby
+# 🥰 Part IV: Hobby
 
