@@ -1,4 +1,4 @@
-![wechat](https://github.com/user-attachments/assets/06ad6d97-fa1c-45fa-b869-235e12620145)Welcome to my academic personal website! 🫡🫡
+Welcome to my academic personal website! 🫡🫡
 
 [Jiaqi Zou's academic personal website]([https://immortal13.github.io/Jiaqi-Zou/](https://immortal13.github.io/JiaqiZou/))
 
