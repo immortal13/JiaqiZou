@@ -1,6 +1,6 @@
 Welcome to my academic personal website! 🫡🫡
 
-[Jiaqi Zou's academic personal website]([https://immortal13.github.io/Jiaqi-Zou/](https://immortal13.github.io/JiaqiZou/))
+[Jiaqi Zou's academic personal website](https://immortal13.github.io/JiaqiZou/)
 
 **I am actively seeking postdoctoral opportunities starting in June 2025.**
 
