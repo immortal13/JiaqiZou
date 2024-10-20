@@ -21,7 +21,7 @@ I am a third-year Ph.D. student from [State Key Laboratory of Information Engine
 
 I am very fortunate to be advised by [Prof. Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), [Prof. Wei He](https://prowdiy.github.io/weihe.github.io/), and [Prof. Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). 
 
-**<ins>I am actively seeking postdoctoral opportunities starting in June 2025.</ins>** 🫡🫡
+**<font color="red">I am actively seeking postdoctoral opportunities starting in June 2025.</font>** 🫡🫡
 
 My research interest includes deep learning, remote sensing, hyperspectral, image processing, and wetland mapping. 
 
