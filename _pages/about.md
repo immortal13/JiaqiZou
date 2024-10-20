@@ -58,10 +58,16 @@ Email: **immortal@whu.edu.cn**
 - *Dec 2022*, **<font color="red">Excellent Presentation Award</font>** in International Graduate Workshop on Geoinformatics Conference, Wuhan, China 
 
 ## National Scholarship
+- *Nov 2022*, National Scholarship (Doctoral Student), Wuhan, China
+- *Nov 2018*, National Scholarship (Undergraduate Student) Beijing, China 
+- *Nov 2017*, National Scholarship (Undergraduate Student) Beijing, China 
 
 ## Sports Competition
-
-
+- *May 2024*, 1st Place in Women’s Doubles Wuhan, China Postgraduate Table Tennis Competition of Wuhan University
+- *May 2022*,  1st Place in Team Wuhan, China Postgraduate Table Tennis Competition of Wuhan University
+- *May 2022*,  1st Place in Mixed Doubles Wuhan, China Postgraduate Table Tennis Competition of Wuhan University
+- *May 2021*,  1st Place in Women’s Singles Wuhan, China Postgraduate Table Tennis Competition of Wuhan University
+- *May 2018*,  6th Place in Women’s Team Beijing, China Capital City Table Tennis Tournament
 
 # 🥰 Part IV: Hobby
-
+Jiaqi Zou enjoys a wide range of activities, including music, table tennis, badminton, and fitness. 
