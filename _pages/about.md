@@ -51,8 +51,11 @@ Email: **immortal@whu.edu.cn**
 - *Nov 2023*, **<font color="red">2nd Place</font>** in National Finals, Tianjin, China (China International College Students’ Innovation Competition)
 - *Nov 2022*, **<font color="red">1st Place</font>** in National Hyperspectral Image Processing and Application Competition, Shenzhen, China (Spectral-Spatial Transformer for Coastal Wetland Land Cover Classification Using Zhuhai-1 Hyperspectral Imagery)
 - *Mar 2022*, **<font color="red">2nd Place</font>** in IEEE Data Fusion Contest, Kuala Lumpur, Malaysia (Semi-supervised Learning for Land Cover Classification)
-## Research Presentation
 
+## Research Presentation
+- *Jul 2023*, **<font color="red">Excellent Presentation Award</font>** in Remote Sensing of Wetlands Conference, Shandong, China
+- *Dec 2023*, **<font color="red">Best Presentation Award (1st Place)</font>** in International Graduate Workshop on Geoinformatics Conference, Hong Kong, China
+- *Dec 2022*, **<font color="red">Excellent Presentation Award</font>** in International Graduate Workshop on Geoinformatics Conference, Wuhan, China 
 ## National Scholarship
 
 ## Sports Competition
